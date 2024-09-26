@@ -3,8 +3,11 @@ HELLO THERE?
 CAN YOU HERE ME?
 
 O X O
-X X O
-X O *
+X X X
+X O O
+
+Michiel Gewonne
+yippie
 
 
 
