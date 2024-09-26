@@ -2,9 +2,9 @@
 HELLO THERE?
 CAN YOU HERE ME?
 
-O * O
-* x *
-x * *
+O X *
+O X *
+X * *
 
 
 
